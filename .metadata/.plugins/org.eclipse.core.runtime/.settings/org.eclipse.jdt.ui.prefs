@@ -1,0 +1,32 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="android.os.Handler"><rhs name\="android.os.Handler"/></lhs><lhs name\="android.support.v4.app.Fragment"><rhs name\="com.mybaobo.guming.data.TabGuanZhu"/></lhs><lhs name\="android.content.ComponentCallbacks"><rhs name\="com.mybaobo.guming.data.TabGuanZhu"/></lhs><lhs name\="android.view.View$OnCreateContextMenuListener"><rhs name\="com.mybaobo.guming.data.TabGuanZhu"/></lhs><lhs name\="com.mybaobo.guming.data.TabGuanZhu"><rhs name\="com.mybaobo.guming.data.TabGuanZhu"/></lhs><lhs name\="android.os.Parcelable"><rhs name\="android.content.Intent"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="android.content.Intent"/></lhs><lhs name\="android.content.Intent"><rhs name\="android.content.Intent"/></lhs><lhs name\="android.content.Context"><rhs name\="com.bin.weiai.MainActivity"/></lhs><lhs name\="org.json.JSONObject"><rhs name\="org.json.JSONObject"/></lhs><lhs name\="EnumTest"><rhs name\="EnumTest"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.exception.name=e
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.gettersetter.use.is=true
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.overrideannotation=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="false" context\="newtype_context" deleted\="false" description\="Newly created files" enabled\="true" id\="org.eclipse.jdt.ui.text.codetemplates.newtype" name\="newtype">${filecomment}\r\n${package_declaration}\r\n/**\r\n *\r\n * @author  \u4F5C\u8005\uFF1A\u9EC4\u6CFD\u5F6C\t E-mail\uFF1Aroot@68xg.com\r\n * @version \u521B\u5EFA\u65F6\u95F4\uFF1A${date} ${time} \r\n *\r\n *                \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\r\n *                \#                                                   \#\r\n *                \#                       _oo0oo_                     \#   \r\n *                \#                      o8888888o                    \#\r\n *                \#                      88" . "88                    \#\r\n *                \#                      (| -_- |)                    \#\r\n *                \#                      0\\  \=  /0                    \#   \r\n *                \#                    ___/`---'\\___                  \#\r\n *                \#                  .' \\\\|     |\# '.                 \#\r\n *                \#                 / \\\\|||  \:  |||\# \\                \#\r\n *                \#                / _||||| -\:- |||||- \\              \#\r\n *                \#               |   | \\\\\\  -  \#/ |   |              \#\r\n *                \#               | \\_|  ''\\---/''  |_/ |             \#\r\n *                \#               \\  .-\\__  '-'  ___/-. /             \#\r\n *                \#             ___'. .'  /--.--\\  `. .'___           \#\r\n *                \#          ."" '&lt;  `.___\\_&lt;|&gt;_/___.' &gt;' "".         \#\r\n *                \#         | | \:  `- \\`.;`\\ _ /`;.`/ - ` \: | |       \#\r\n *                \#         \\  \\ `_.   \\_ __\\ /__ _/   .-` /  /       \#\r\n *                \#     \=\=\=\=\=`-.____`.___ \\_____/___.-`___.-'\=\=\=\=\=    \#\r\n *                \#                       `\=---\='                     \#\r\n *                \#     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   \#\r\n *                \#                                                   \#\r\n *                \#               \u4F5B\u7956\u4FDD\u4F51          \u6C38\u65E0BUG            \t      \#\r\n *                \#                                                   \#\r\n *                \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\r\n */\r\n${typecomment}\r\n${type_declaration}</template></templates>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+proposalOrderMigrated=true
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

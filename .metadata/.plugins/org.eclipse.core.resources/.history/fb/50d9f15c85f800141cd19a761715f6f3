@@ -1,0 +1,34 @@
+package com.mybaobo.guming.data;
+
+import com.mybaobo.guming.R;
+import android.os.Bundle;
+import android.support.v4.app.Fragment;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ListView;
+import android.widget.TextView;
+
+public class TabFaXian extends Fragment {
+	View view;
+	static TabFaXian tabFaXian;
+	ListView list;
+	TextView tv;
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup container,
+			Bundle savedInstanceState) {
+		tabFaXian = this;
+		view = inflater.inflate(R.layout.tab_faxian, container, false);
+		initData();
+		return view;
+	}
+
+	public static TabFaXian getInstance() {
+		return tabFaXian;
+	}
+
+	public void initData() {
+		list = (ListView) view.findViewById(R.id.listView1);
+	}
+
+}

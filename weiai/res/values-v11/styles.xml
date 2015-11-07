@@ -1,0 +1,15 @@
+<resources>
+
+    <!--
+        Base application theme for API 11+. This theme completely replaces
+        AppBaseTheme from res/values/styles.xml on API 11+ devices.    -->
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionOverflowButtonStyle">@style/WeChatActionButtonOverflow</item>
+    </style>
+
+    <style name="WeChatActionButtonOverflow" parent="android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/actionbar_add_icon</item>
+    </style>
+
+</resources>

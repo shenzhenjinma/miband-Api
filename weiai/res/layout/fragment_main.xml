@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+    
+        android:padding="10dp"
+               android:background="#dacfcd" >
+
+        <ImageView
+            android:id="@+id/imageView1" 
+            android:layout_width="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_height="40dp"
+            android:src="@drawable/nv"
+      />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:layout_gravity="center"
+            android:text="ID:10022"
+            android:textSize="28dp"
+            android:textColor="#ffffff" />
+
+    </LinearLayout>
+
+    
+    
+    <LinearLayout
+                    android:id="@+id/action_xintiao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center" >
+
+        <TextView
+      
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="10dp"
+            android:background="#fc9c9d"
+            android:padding="40dp"
+            android:gravity="center"
+            android:text="心跳"
+            android:textSize="28dp"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:gravity="center"
+            android:layout_marginLeft="10dp"
+            android:background="#afd8ee"
+            android:padding="40dp" android:textSize="28dp"
+            android:text="灯光"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center" >
+
+        
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+           android:layout_marginRight="10dp"
+            android:background="#84af9b"
+            android:gravity="center"
+            android:padding="40dp"
+            android:text="讯息"
+            android:textColor="#ffffff"
+            android:textSize="28dp" />
+<TextView
+        android:layout_width="150dp"
+            android:layout_height="150dp"
+              android:layout_marginLeft="10dp"
+            android:background="#f9ccad"
+            android:padding="40dp"
+             android:textSize="28dp"
+            android:text="心情"
+            android:gravity="center"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+    
+</LinearLayout>
